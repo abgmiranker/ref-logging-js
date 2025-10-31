@@ -1,0 +1,23 @@
+{
+  "name": "ref-logging",
+  "version": "1.0.0",
+  "description": "An example implementation of logging in JS using Winston",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abgmiranker/ref-logging-js.git"
+  },
+  "keywords": [
+    "logging",
+    "winston"
+  ],
+  "author": "Alex Miranker <alex@miranker.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abgmiranker/ref-logging-js/issues"
+  },
+  "homepage": "https://github.com/abgmiranker/ref-logging-js#readme"
+}
